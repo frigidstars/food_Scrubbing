@@ -1,0 +1,19 @@
+milliliter milliliter ml 毫升
+centiliter centiliter 勺 湯勺 大勺 大湯勺 杓
+deciliter deciliter 公合 dl 百g
+Litre Litre l 公升 千ml 升
+gram gram g gg gm
+mace mace 錢
+tael tael 兩
+ounce ounce oz
+pound pound 磅 lb
+catty catty 台斤 斤
+kilogram kilogram kg 公斤
+tablespoon tablespoon 大匙 湯匙 大湯匙 el 平匙 tbsp 大t table tb tbs tablesp
+teaspoon teaspoon 小匙 匙 茶匙 小茶匙 t tsp tl 小湯匙 茶勺 小勺 ts tsps teasp
+EA EA ea 個 片 條 根 包 隻 只 盒 朵 塊 支 枝 把 束 罐 塊 粒 瓣 辦 尾 撮 搓 株 張 瓶 鍋 副 段 顆 棵 球 袋 盤 碟 錠
+rice-measuring-cup rice-measuring-cup 米杯 量米杯 杯量米杯 杯米杯 米量杯 杯米
+cup cup 杯 小杯 cup 杯量 量杯
+bowl bowl 碗 大碗 小碗 飯碗 碗量 碗公
+Moderation Moderation 適量 少許 些許 酌量 少量 隨意 數片 點點 數顆 些 依人喜好 數朵 依喜好 咪咪 人喜好 小段 點 滴 依人 適當 大量 看人 瓶蓋 數條 數根 數滴 适量 幾片 可加可不加 隨喜 微量 數支
+servings servings 份 人份 份人
